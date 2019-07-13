@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "firstName": "Leroy",
+      "lastName": "Jenkins",
+      "email": "arny567@ho.com",
+      "age": "16",
+      "id": 1
+    },
+    {
+      "firstName": "Antonina",
+      "lastName": "Utkina",
+      "email": "anastas@koko.com",
+      "age": "22",
+      "id": 2
+    },
+    {
+      "firstName": "Kitty",
+      "lastName": "Utkina",
+      "email": "anastas@koko.com",
+      "age": "22",
+      "id": 3
+    },
+    {
+      "firstName": "Suzan",
+      "lastName": "Utkina",
+      "email": "anastas@koko.com",
+      "age": "22",
+      "id": 4
+    },
+    {
+      "firstName": "Valentina",
+      "lastName": "Utkina",
+      "email": "anastas@koko.com",
+      "age": "22",
+      "id": 5
+    },
+    {
+      "firstName": "Anastasia",
+      "lastName": "Utkina",
+      "email": "anastas@koko.com",
+      "age": "22",
+      "id": 6
+    },
+    {
+      "firstName": "Oleg",
+      "lastName": "Vlasov",
+      "email": "olvl@mdal.ru",
+      "age": "27",
+      "id": 7
+    },
+    {
+      "firstName": "Jorhe",
+      "lastName": "Horhes",
+      "email": "pussycat@gmail.com",
+      "age": "2",
+      "id": 8
+    },
+    {
+      "firstName": "Timmy",
+      "lastName": "Trumpet",
+      "email": "TT@mail.com",
+      "age": "29",
+      "id": 9
+    },
+    {
+      "firstName": "Node",
+      "lastName": "Jsovna",
+      "email": "nodeJs@mailovna.com",
+      "age": "12",
+      "id": 10
+    },
+    {
+      "firstName": "Vasok",
+      "lastName": "Vasken",
+      "email": "ffsd0@sf.ru",
+      "age": "24",
+      "id": 11
+    }
+  ]
+}
